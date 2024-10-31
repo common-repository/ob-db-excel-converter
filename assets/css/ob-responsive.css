@@ -1,0 +1,10 @@
+@media only screen and (max-width: 321px) {
+.ob-main-csql-title {
+    font-size: 16px;
+}
+.home-img_icon {
+    margin-top: 10px;
+}
+.ob_container.custom-sql{ padding: 0px; margin-right: 10px;}
+.button.button-primary.tag_table{padding: 6px 2px; font-size: 11px;}
+}
